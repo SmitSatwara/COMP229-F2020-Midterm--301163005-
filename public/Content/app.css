@@ -1,0 +1,27 @@
+/* custom css goes here */
+.set-btn-div{
+    text-align: center !important;
+}
+
+.set-btn-style{
+    width: 10em !important;
+}
+
+.set-btn-style-1{
+    width: 5em !important;   
+}
+
+.set-style-table{
+    width: 100% !important;
+    border-radius: 1em !important;
+    background-color: #e3e6e8 !important;
+}
+
+.set-form-style{
+    width: 30em !important;
+}
+
+.set-div-style{
+    margin-top: 8% !important;
+    margin-left: 35% !important;
+}
